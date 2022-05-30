@@ -1,6 +1,7 @@
 # Project-Calculator
-A basic calculator built with react native - a school project for the course Mobile programming of the University of Dschang
-Follow the following steps to have this project running on your PC
+A basic calculator built with react native and typescript. This is a mini school project for the course "Mobile programming" of the University of Dschang.
+
+Follow the following steps to have this project running on your PC:
 1. Ensure that nodejs, npm and expo-cli are installed on your system
 2. Clone the repository
 3. cd project
